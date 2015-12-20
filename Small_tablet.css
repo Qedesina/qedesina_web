@@ -1,0 +1,99 @@
+/*
+#------------------------------------------------------------------------
+# CloudHost - September Joomla! template (for Joomla 2.5)
+#
+# Copyright (C) 2007-2013 Gavick.com. All Rights Reserved.
+# License: Copyrighted Commercial Software
+# Website: http://www.gavick.com
+# Support: support@gavick.com 
+*/
+
+.gkPage {
+	padding: 0 20px;
+}
+.itemsContainer .itemsContainerWrap, 
+.itemContainer .itemsContainerWrap {
+	margin: 0!important;	
+}
+#k2Container article header h2 {
+	font-size: 32px;
+	line-height: 32px;
+}
+.demo-typo-col2,
+.demo-typo-col3,
+.demo-typo-col4 {
+	clear: both;
+	float: none;
+	padding-bottom: 20px;
+	width: 100%;
+}
+.gkTestimonials > div > div > blockquote {
+	font-size: 11px;
+	padding: 14px;
+	line-height: 1.6;
+}
+.gkColumns[data-cols="2"] > div,
+.gkColumns[data-cols="3"] > div,
+.gkColumns[data-cols="4"] > div {
+	padding-bottom: 20px!important;
+	width: 100%;
+}
+.gkDomainSearch label {
+	display: none;
+}
+.gkColorPriceTable.col3 dl {
+	float: left;
+	margin: 0 1%;
+	width: 31.333333%;
+}
+.gkColorPriceTable .gkPremium dt {
+	font-size: 22px;
+	line-height: 50px;
+	margin: -8px -10px 20px -10px;
+}
+.gkColorPriceTable dt {
+	font-size: 18px;
+	line-height: 40px;
+	margin: -8px -10px 14px -10px;
+}
+.gkColorPriceTable .gkPrice {
+	font-size: 20px;
+	margin: 0 0 10px 0;
+}
+.gkColorPriceTable .gkPremium .gkPrice {
+	font-size: 20px;
+}
+.bigtitle .header {
+	font-size: 22px;
+	margin: 0 0 25px;
+}
+.bigtitle .header small {
+	font-size: 14px;
+}
+.centered .nspArt {
+	padding: 0 10px!important;
+}
+.centered .nspMain {
+	margin: 0 -10px!important;
+}
+#gkBottom1, 
+#gkBottom2, 
+#gkBottom3, 
+#gkBottom4, 
+#gkBottom5 {
+	padding: 15px 0;
+}
+#gkBottom6 {
+	padding: 30px 0;
+}
+.gkPriceTable.col4 dl {
+	float: left;
+	margin-bottom: 20px;
+	width: 48%;
+}
+.gkPriceTable.col4 dl:nth-child(2n+1) {
+	clear: both;
+}
+.gkIcons {
+	width: 100%;
+}

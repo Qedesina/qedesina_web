@@ -1,0 +1,23 @@
+/*
+ * Droid Sans Ethiopic (Ethiopic) http://www.google.com/fonts/earlyaccess
+ */
+@font-face {
+  font-family: 'Droid Sans Ethiopic';
+  font-style: normal;
+  font-weight: 400;
+  src: url(//fonts.gstatic.com/ea/droidsansethiopic/v4/DroidSansEthiopic-Regular.eot);
+  src: url(//fonts.gstatic.com/ea/droidsansethiopic/v4/DroidSansEthiopic-Regular.eot?#iefix) format('embedded-opentype'),
+       url(//fonts.gstatic.com/ea/droidsansethiopic/v4/DroidSansEthiopic-Regular.woff2) format('woff2'),
+       url(//fonts.gstatic.com/ea/droidsansethiopic/v4/DroidSansEthiopic-Regular.woff) format('woff'),
+       url(//fonts.gstatic.com/ea/droidsansethiopic/v4/DroidSansEthiopic-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Droid Sans Ethiopic';
+  font-style: normal;
+  font-weight: 700;
+  src: url(//fonts.gstatic.com/ea/droidsansethiopic/v4/DroidSansEthiopic-Bold.eot);
+  src: url(//fonts.gstatic.com/ea/droidsansethiopic/v4/DroidSansEthiopic-Bold.eot?#iefix) format('embedded-opentype'),
+       url(//fonts.gstatic.com/ea/droidsansethiopic/v4/DroidSansEthiopic-Bold.woff2) format('woff2'),
+       url(//fonts.gstatic.com/ea/droidsansethiopic/v4/DroidSansEthiopic-Bold.woff) format('woff'),
+       url(//fonts.gstatic.com/ea/droidsansethiopic/v4/DroidSansEthiopic-Bold.ttf) format('truetype');
+}

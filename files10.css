@@ -1,0 +1,51 @@
+				.childcontent .gkcol { width: 220px; }
+
+				body,
+				html, 
+				body button, 
+				body input, 
+				body select, 
+				body textarea,
+				h1,h2,h3,h4,h5,h6,
+				#gkLogo.text,
+				#gkTopBar,
+				button,
+				.button,
+				input.button,
+				span.button,
+				button.button,
+				div.button,
+				input[type="submit"],
+				input[type="button"],
+				.pagenav-prev a,
+				.pagenav-next a,
+				.readon,
+				#gkMainbody .itemReadMore,
+				#gkMainbody .readmore > a,
+				#gkBreadcrumb li { font-family: ''Lato', 'Droid Sans Ethiopic'', Arial, sans-serif; }
+
+				#gkBottom6 .box,
+				#gkFooter,
+				.gkDetails { font-family: Arial, Helvetica, sans-serif; }
+
+				.blank { font-family: Arial, Helvetica, sans-serif; }
+
+				.blank { font-family: Arial, Helvetica, sans-serif; }
+
+				@media screen and (max-width: 600px) {
+					    	#k2Container .itemsContainer { width: 100%!important; } 
+					    	.cols-2 .column-1,
+					    	.cols-2 .column-2,
+					    	.cols-3 .column-1,
+					    	.cols-3 .column-2,
+					    	.cols-3 .column-3,
+					    	.demo-typo-col2,
+					    	.demo-typo-col3,
+					    	.demo-typo-col4 {width: 100%; }
+					    	}
+
+				#gkSidebar { width: 28%; }
+
+				#gkContentWrap { width: 72%; }
+
+				.gkPage { max-width: 960px; }
